@@ -68,7 +68,8 @@ tar --version
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/aadityapalsagwan/Shell-Python-Script-Files-For-Linux.git
+
 ```
 
 Move into repository:
