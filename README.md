@@ -4,6 +4,13 @@ A collection of production-ready Linux Shell scripts for system administration, 
 
 ---
 
+![Linux](https://img.shields.io/badge/Linux-Supported-green)
+![Bash](https://img.shields.io/badge/Bash-Scripting-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+---
+
 ## Repository Structure
 
 ```text
